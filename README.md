@@ -4,7 +4,7 @@
 
 <p align="center" width="18px">
    I'm Igor, a 22 years old fullstack developer from São Paulo<br>
-   and I've been working at Alphacode IT Solutions.
+   and I've been working at CI&T.
 </p>
 
 ##
