@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="18px">
-   I'm Igor, a 22 years old fullstack developer from São Paulo<br>
+   I'm Igor, a 23 years old fullstack developer from São Paulo<br>
    and I've been working at CI&T.
 </p>
 
